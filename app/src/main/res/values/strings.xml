@@ -1,0 +1,11 @@
+<resources>
+    <string name="Text_Principal">Converter 1 Dólar dos EUA para Real brasileiro</string>
+    <string name="Text_SubPrincipal">Converso de moeda</string>
+    <string name="real">COTAÇÃO DO REAL</string>
+    <string name="Dolar">COTAÇÃO DO DOLAR</string>
+    <string name="BotaoConverter">CONVERTER</string>
+    <string name="ValorConv">Digite o valor que deseja \n converter pra dolar</string>
+    <string name="ButonReset">Limpar</string>
+    <string name="Resultado">R$ --> U$ </string>
+    <string name="Erro">ERRO! Preencha os campos!</string>
+</resources>
